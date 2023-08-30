@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string-array name="funcionalidades_trigonometricas">
+        <item>   Trigonometricas </item>
+        <item>Sin</item>
+        <item>Cos</item>
+        <item>Tan</item>
+    </string-array>
+</resources>
+
